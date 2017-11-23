@@ -1,0 +1,15 @@
+@tailwind preflight;
+@tailwind utilities;
+
+a {
+  @apply .text-grey-darkest;
+}
+
+.section {
+  @apply .mb-8;
+}
+
+.title {
+  @apply .text-xl .font-bold .text-grey-darkest .mb-4;
+}
+
